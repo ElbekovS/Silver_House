@@ -1,0 +1,50 @@
+@media(max-width: 1200px) {
+    
+    .nav-img {
+        max-width: 1200px;
+        width: 100%;
+    }
+
+    .main {
+        flex-wrap: wrap;
+        row-gap: 30px;
+        align-items: center;
+    }
+
+    .aboutme {
+        max-width: 730px;
+        width: 100%;
+        margin-left: 0;
+    } 
+
+    .main-info {
+        margin-bottom: 10px;
+    }
+
+}
+@media(max-width: 992px) {
+
+}
+@media(max-width: 768px) {
+
+    .nav-actions {
+        flex-wrap: wrap;
+        row-gap: 5px;
+    }
+
+    .p1 {
+        max-width: 630px;
+        width: 100%;
+    }
+
+    .footer-main {
+        flex-wrap: wrap;
+        row-gap: 30px;
+        justify-content: center;
+    }
+    
+}
+@media(max-width: 576px) {
+    
+
+}
